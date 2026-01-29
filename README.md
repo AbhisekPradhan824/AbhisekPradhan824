@@ -140,27 +140,35 @@ Comprehensive e-commerce platform with product catalog, shopping cart, Stripe pa
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekPradhan824&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekPradhan824&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbhisekPradhan824&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhisekPradhan824&theme=radical&row=1" alt="Trophies" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,oracle,git,github,vscode,bootstrap,tailwind&perline=8" />
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
+## 📊 GitHub Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhisekPradhan824&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhisekPradhan824&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhisekPradhan824&theme=tokyonight" alt="Most Commit Language" />
+</div>
 
 ---
 
