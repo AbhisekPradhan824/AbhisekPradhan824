@@ -98,42 +98,71 @@
 
 ## 🚀 Featured Projects
 
-### 🏠 Airbnb Clone - Property Rental Platform
-[![GitHub](https://img.shields.io/badge/View_Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/AbhisekPradhan824/YOUR_REPO)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Full-stack vacation rental platform with property listings, booking management, user authentication, and review system.
+### 🏠 Airbnb Clone
 
-**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Bootstrap`
+<a href="https://github.com/AbhisekPradhan824/YOUR_REPO">
+  <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/AbhisekPradhan824/YOUR_REPO">
+  <img src="https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github" />
+</a>
 
----
+Full-stack vacation rental platform with property listings, booking management, user authentication, and review system.
 
-### 🛒 Full-Stack E-Commerce Platform
-[![GitHub](https://img.shields.io/badge/View_Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/AbhisekPradhan824/YOUR_REPO)
+**Tech:** `React` `Node.js` `Express` `MongoDB` `JWT`
 
-> Comprehensive e-commerce platform with product catalog, shopping cart, Stripe payments, and admin dashboard.
+</td>
+<td width="50%" valign="top">
 
-**Tech Stack:** `React` `Redux` `Node.js` `MongoDB` `Stripe` `JWT`
+### 🛒 E-Commerce Platform
+
+<a href="https://github.com/AbhisekPradhan824/YOUR_REPO">
+  <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/AbhisekPradhan824/YOUR_REPO">
+  <img src="https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github" />
+</a>
+
+Comprehensive e-commerce platform with product catalog, shopping cart, Stripe payments, and admin dashboard.
+
+**Tech:** `React` `Redux` `Node.js` `MongoDB` `Stripe`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekPradhan824&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekPradhan824&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekPradhan824&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekPradhan824&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F" height="180" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhisekPradhan824&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhisekPradhan824&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhisekPradhan824&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhisekPradhan824&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhisekPradhan824&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph" />
+</div>
 
 ---
 
