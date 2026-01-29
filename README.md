@@ -137,18 +137,6 @@ Comprehensive e-commerce platform with product catalog, shopping cart, Stripe pa
 
 ---
 
-
----
-
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,oracle,git,github,vscode,bootstrap,tailwind&perline=8" />
-</div>
-
 ---
 
 ## 💡 Random Dev Quote
@@ -168,6 +156,14 @@ Comprehensive e-commerce platform with product catalog, shopping cart, Stripe pa
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhisekPradhan824&theme=tokyonight" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhisekPradhan824&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhisekPradhan824&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
