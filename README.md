@@ -137,24 +137,30 @@ Comprehensive e-commerce platform with product catalog, shopping cart, Stripe pa
 
 ---
 
+
+---
+
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekPradhan824&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekPradhan824&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F" height="180" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekPradhan824&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbhisekPradhan824&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekPradhan824&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhisekPradhan824&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhisekPradhan824&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhisekPradhan824&theme=radical&row=1" alt="Trophies" />
+</p>
 
 ---
 
