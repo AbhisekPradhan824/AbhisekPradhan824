@@ -168,14 +168,6 @@ Comprehensive e-commerce platform with product catalog, shopping cart, Stripe pa
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhisekPradhan824&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <p align="center">
