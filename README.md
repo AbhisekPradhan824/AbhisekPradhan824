@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhisek-pradhan-a9a0b824a/">
+  <a href="https://www.linkedin.com/in/pradhanabhisek748/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pradhanabhisek824@gmail.com">
