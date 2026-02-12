@@ -149,21 +149,20 @@ Comprehensive e-commerce platform with product catalog, shopping cart, Stripe pa
 ## 📊 GitHub Summary
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhisekPradhan824&theme=tokyonight&v=1" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhisekPradhan824&theme=tokyonight&v=1" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhisekPradhan824&theme=tokyonight&v=1" alt="Most Commit Language" />
 </div>
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhisekPradhan824&theme=tokyonight&v=1" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhisekPradhan824&theme=tokyonight&utcOffset=5.5&v=1" alt="Productive Time" />
 </div>
 
 ---
-
 ## 📈 Contribution Graph
 
 <div align="center">
