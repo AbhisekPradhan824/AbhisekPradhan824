@@ -146,16 +146,20 @@ Comprehensive e-commerce platform with product catalog, shopping cart, Stripe pa
 </div>
 
 ---
-
 ## 📊 GitHub Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhisekPradhan824&theme=tokyonight" alt="Profile Details" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhisekPradhan824&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhisekPradhan824&theme=tokyonight" alt="Most Commit Language" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </div>
 
 ---
@@ -163,7 +167,7 @@ Comprehensive e-commerce platform with product catalog, shopping cart, Stripe pa
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhisekPradhan824&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhisekPradhan824&theme=tokyo-night&hide_border=true&v=1" alt="Contribution Graph" />
 </div>
 
 ---
