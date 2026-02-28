@@ -174,7 +174,7 @@ Comprehensive e-commerce platform with product catalog, shopping cart, Stripe pa
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhisek-pradhan-a9a0b824a/">
+  <a href="https://www.linkedin.com/in/pradhanabhisek748/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:pradhanabhisek824@gmail.com">
